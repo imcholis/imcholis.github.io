@@ -1,6 +1,6 @@
 ## Hi there 👋
-🔭 I’m currently working on developing my career while working at PT Sumber Alfaria Trijaya.
-🌱 I’m currently learning various topics in Information Systems at Universitas Terbuka.
+-🔭 I’m currently working on developing my career while working at PT Sumber Alfaria Trijaya.
+-🌱 I’m currently learning various topics in Information Systems at Universitas Terbuka.
 <!--
 **imcholis/imcholis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
